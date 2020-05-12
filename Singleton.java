@@ -1,6 +1,9 @@
+单例模式问法：https://mp.weixin.qq.com/s/jLDD4qWD-Rq3haQxOPBSqw
+破坏单例模式：http://www.justdojava.com/2019/08/21/Java-single-destroy-prevent/
+枚举模式：https://juejin.im/post/5d64ca62f265da03b638bb47
 /*
 单例模式：
-    一个类只有一个实例，且提高该实例的全局访问点
+    一个类只有一个实例，且提供该实例的全局访问点
     参考：https://blog.csdn.net/itachi85/article/details/50510124
 
 变量声明为static：
